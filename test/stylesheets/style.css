@@ -1,0 +1,19 @@
+html {
+	background-color: #000000;i
+	font-family: 'Droid Serif', serif;
+}
+
+#body {
+	margin: auto;
+	text-align: center;
+	background-color: #ffffff;
+	width: 1024px;
+}
+
+.note {
+	margin: auto;
+	background-color: #efefef;
+	width: 1060px;
+	border-radius: 15px;
+	box-shadow: 10px 10px 5px #000000;
+}
