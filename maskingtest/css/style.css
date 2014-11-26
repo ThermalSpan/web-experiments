@@ -34,11 +34,10 @@ html {
 }
 
 #menu-box {
+    padding: 50px;
     border-top: 3px solid #ffffff;
     border-bottom: 3px solid #ffffff;
     border-radius: 10px;
-
-
 }
 
 #menu li {
